@@ -1,2 +1,2 @@
 # thunder-support-nodejs-api
- api for thunder-support
+This is the nodejs api for my thunder-support project i am working on.

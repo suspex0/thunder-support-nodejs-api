@@ -1,0 +1,9 @@
+{
+    "Database":{
+        "Host":"localhost",
+        "Password":"",
+        "Port":"3306",
+        "User":"root",
+        "Name":"systemInfo"
+    }
+}
